@@ -1,0 +1,11 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/login/page": "app/login/page.js",
+  "/feed/page": "app/feed/page.js",
+  "/gallery/page": "app/gallery/page.js",
+  "/profile/page": "app/profile/page.js",
+  "/challenges/page": "app/challenges/page.js",
+  "/admin/dashboard/page": "app/admin/dashboard/page.js",
+  "/super-admin/dashboard/page": "app/super-admin/dashboard/page.js"
+}
