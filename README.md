@@ -3,9 +3,8 @@
 Full-stack platform for photographers with JWT auth, uploads, albums/groups, and real-time chat.
 
 ## Stack
-- Frontend: Next.js 14 (App Router)
-- Backend: Node.js + Express
-- Database: MongoDB + Mongoose
+- Frontend: Next.js 14 (App Router)+React
+- Backend: Node.js + Express + mySQL + Sequelize
 - Realtime: Socket.io
 - Uploads: Multer + local cloud-ready storage service
 
